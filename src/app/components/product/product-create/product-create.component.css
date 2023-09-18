@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin: 20px 15px 0px 0px;
+    /* Utilizar o margin dessa forma é a mesma coisa de utilizar igual ao exemplo abaixo.[
+       Os parâmetros começam no topo e vão no sentido horário */
+    
+       /* Exemplo: margin-top: 20px; margin-right: 15px; */
+}
