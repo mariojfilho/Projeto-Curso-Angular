@@ -1,17 +1,24 @@
 {
-    "products": [{
-        "id": 1,
-        "name": "Caneta BIC Preta",
-        "price": 5.45
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.45
     },
     {
-        "id": 2,
-        "name": "Notebook",
-        "price": 5000.50
+      "id": 2,
+      "name": "Notebook",
+      "price": 5000.5
     },
     {
-        "id": 3,
-        "name": "Celular Iphone",
-        "price": 4500
-    }]
+      "id": 3,
+      "name": "Celular Iphone",
+      "price": 4500
+    },
+    {
+      "name": "Geladeira",
+      "price": "2500",
+      "id": 4
+    }
+  ]
 }
