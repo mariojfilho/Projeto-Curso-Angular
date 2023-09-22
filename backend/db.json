@@ -24,6 +24,31 @@
       "name": "Ar Condicionado",
       "price": "1980.90",
       "id": 5
+    },
+    {
+      "name": "Mouse Microsoft",
+      "price": "189.90",
+      "id": 6
+    },
+    {
+      "name": "Tênis Nike",
+      "price": "330",
+      "id": 7
+    },
+    {
+      "name": "Calsa Jeans",
+      "price": "149.90",
+      "id": 8
+    },
+    {
+      "name": "Camisa Polo Lacoste",
+      "price": "389.99",
+      "id": 9
+    },
+    {
+      "name": "Mouse Pad",
+      "price": "55",
+      "id": 10
     }
   ]
 }
